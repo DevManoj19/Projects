@@ -96,4 +96,3 @@ This repository is licensed under the MIT License.
 <p align="center">
   Made with 💡 and Python by <a href="https://github.com/DevManoj19" target="_blank">DevManoj19</a> 🧠
 </p>
-```
