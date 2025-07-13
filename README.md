@@ -89,7 +89,7 @@ Predicts stock prices using machine learning models (e.g., LSTM or Regression mo
 
 ## 📜 License
 
-This repository is licensed under the MIT License.
+This repository is licensed under the GNU General Public License v3.0.
 
 ---
 
